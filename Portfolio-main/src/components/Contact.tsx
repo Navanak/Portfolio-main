@@ -10,11 +10,11 @@ const Contact = () => {
             <MessageCircle className="w-8 h-8 text-white" />
           </div>
 <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
-  Let's Connect
+  Let&apos;s Connect
 </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-accent-500 to-accent-700 mx-auto rounded-full"></div>
        <p className="text-xl text-white/80 max-w-2xl mx-auto mt-2">
-  Ready to collaborate on exciting AI projects? Let's discuss how we can work together!
+  Ready to collaborate on exciting AI projects? Let&apos;s discuss how we can work together!
 </p>
         </div>
         
@@ -51,7 +51,7 @@ const Contact = () => {
                       </div>
                       <div>
                         <h3 className="text-xl font-bold text-white">Call Me</h3>
-<p className="text-white/70">Let's have a conversation</p>
+<p className="text-white/70">Let&apos;s have a conversation</p>
                       </div>
                     </div>
                     <p className="text-accent-300 font-medium">
